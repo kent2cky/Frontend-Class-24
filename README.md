@@ -1,2 +1,3 @@
 # Frontend-Class-24
-Learn Git for Frontend Class of 2024
+
+Git Tutorial for Frontend Class of 2024
